@@ -1,0 +1,2 @@
+# pygame_for_dummy
+Python菜鸟快乐游戏编程_pygame
